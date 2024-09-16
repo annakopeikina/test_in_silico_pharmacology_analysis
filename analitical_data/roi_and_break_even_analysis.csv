@@ -1,0 +1,4 @@
+Source,Subscription_Cost,Development_Hours,Hourly_Rate,Time_Per_Request,Development_Cost,Total_Cost,Requests_Per_Hour,ROI,Break_Even_Requests
+DrugBank API (Low Cost),11111,0,7,10,0,11111,6.0,23552.236522365223,-6.16649708630099
+DrugBank API (High Cost),111111,0,20,10,0,111111,6.0,2265.202365202365,-6.01624387470558
+Free Sources,0,200,20,30,4000,4000,2.0,21800.0,-2.051282051282051
